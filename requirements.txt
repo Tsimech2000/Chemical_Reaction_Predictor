@@ -1,5 +1,5 @@
 streamlit
-rdkit
-matplotlib
 numpy
+matplotlib
+rdkit-pypi
 
