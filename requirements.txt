@@ -1,7 +1,8 @@
 streamlit
+pyscf
 numpy
 matplotlib
 rdkit
-
-
+pubchempy
+pymatgen
 
