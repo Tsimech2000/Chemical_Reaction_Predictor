@@ -1,8 +1,6 @@
 streamlit
 numpy
 matplotlib
-pandas
-Pillow
 rdkit
 
 
