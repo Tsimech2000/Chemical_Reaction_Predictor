@@ -3,6 +3,7 @@ numpy
 matplotlib
 pandas
 Pillow
-rdkit-pypi
+rdkit==2023.03.1
+
 
 
